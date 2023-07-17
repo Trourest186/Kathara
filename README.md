@@ -17,6 +17,9 @@ Kathará is the spiritual successor of the notorious Netkit, hence it is cross-c
 4. Kathará will read the configuration of the scenario from lab.conf and the various *.startup files and start the devices, opening terminal windows to 5. interact with them.
 5. After you're done experimenting, simply run kathara lclean and wait until the network scenario closes.
 
+## Main Labs
+- [Link](https://github.com/KatharaFramework/Kathara-Labs/tree/main/main-labs)
+
 ## My documents
 - [Link](https://github.com/Trourest186/Kathara/tree/master)
 
@@ -24,6 +27,6 @@ Kathará is the spiritual successor of the notorious Netkit, hence it is cross-c
 
 This section contains several tutorials about basic and advanced usage of Kathará.
 
-* [Kathará Introduction](introduction): Introduction slides of the Kathará tool.
-* [Capture Packets](capture-packets): A tutorial explaining how to capture packets using the [Wireshark](https://www.wireshark.org/) GUI in Kathará.
-* [Python API](python-api): Several tutorials about the usage of the Kathará Python APIs. 
+* [Kathará Introduction](https://github.com/KatharaFramework/Kathara-Labs/tree/main/tutorials/introduction): Introduction slides of the Kathará tool.
+* [Capture Packets](https://github.com/KatharaFramework/Kathara-Labs/tree/main/tutorials/capture-packets): A tutorial explaining how to capture packets using the [Wireshark](https://www.wireshark.org/) GUI in Kathará.
+* [Python API](https://github.com/KatharaFramework/Kathara-Labs/tree/main/tutorials/python-api): Several tutorials about the usage of the Kathará Python APIs. 
