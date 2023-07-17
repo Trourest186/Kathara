@@ -16,3 +16,6 @@ Kathará is the spiritual successor of the notorious Netkit, hence it is cross-c
 3. cd inside small-internet-with-dns-webserver and run kathara lstart.
 4. Kathará will read the configuration of the scenario from lab.conf and the various *.startup files and start the devices, opening terminal windows to 5. interact with them.
 5. After you're done experimenting, simply run kathara lclean and wait until the network scenario closes.
+
+## My documents
+- [Link](https://github.com/Trourest186/Kathara.git)
