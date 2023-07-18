@@ -12,6 +12,7 @@ Kathará is the spiritual successor of the notorious Netkit, hence it is cross-c
 - [Pyuv](https://github.com/saghul/pyuv)
   (since it may be blocked by PyPI from being downloaded from a git repository, giving this error)
 - [Tutorials](#tutorials)
+- [Switch versions](https://kfields.me/blog/pyenv_on_ubuntu_22) 
 
 ## Kathara Manual
 - [Link](https://www.kathara.org/man-pages/kathara.1.html)
