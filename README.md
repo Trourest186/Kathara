@@ -5,8 +5,14 @@ Kathará is the spiritual successor of the notorious Netkit, hence it is cross-c
 
 ## Install for Ubuntu 22.04 jammy
 - [Docker](https://docs.docker.com/engine/install/)
-- [Kathara](https://github.com/KatharaFramework/Kathara/wiki/Linux)
-  
+- [Kathara](https://github.com/KatharaFramework/Kathara/wiki/Linux)\
+
+## Install Python APIs
+- [Kathara Api](https://github.com/KatharaFramework/Kathara-Labs/tree/main/tutorials/python-api/getting-started)
+- [Pyuv](https://github.com/saghul/pyuv)
+  (since it may be blocked by PyPI from being downloaded from a git repository, giving this error)
+- [Links](#tutorials)
+
 ## Kathara Manual
 - [Link](https://www.kathara.org/man-pages/kathara.1.html)
 
