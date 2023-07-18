@@ -18,7 +18,7 @@ Kathará is the spiritual successor of the notorious Netkit, hence it is cross-c
 5. After you're done experimenting, simply run kathara lclean and wait until the network scenario closes.
 
 ## Main Labs
-- [Link](https://github.com/KatharaFramework/Kathara-Labs/tree/main/main-labs)
+- [Link](https://gsithub.com/KatharaFramework/Kathara-Labs/tree/main/main-labs)
 
 ## My documents
 - [Link](https://github.com/Trourest186/Kathara/tree/master)
