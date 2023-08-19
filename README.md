@@ -39,6 +39,7 @@ This section contains several tutorials about basic and advanced usage of Kathar
 * [Python API](https://github.com/KatharaFramework/Kathara-Labs/tree/main/tutorials/python-api): Several tutorials about the usage of the Kathará Python APIs. 
 
 # Megalos
-Using Kubespray with Docker and CNI options (edit /inventory/mycluster/groupvars/k8-cluster). Then successfully build, continue build Kathara through tutorial Kathara document
+Using Kubespray with Docker and CNI options (edit /inventory/mycluster/groupvars/k8-cluster). Then successfully build, continue build Kathara through tutorial Kathara document.
+
 Additionally, you must mode swtich for Megalos manager then accomplishment installation.
 => Begin demo
